@@ -27,4 +27,5 @@ func Sqrt(x float64) float64 {
 func main() {
 	number := 64.0
 	fmt.Printf("The square root of %v is %v\n", number, Sqrt(number))
+	fmt.Printf("unknown pass")
 }
